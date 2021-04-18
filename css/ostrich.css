@@ -6,6 +6,7 @@ html {
   position: absolute;
   top: 50px;
   right: 0;
+  transform: scale(0.5) translate(-100%, -100%);
 }
 
 /* Write your solution here */
